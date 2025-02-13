@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_ManufacturingUnitSystems_FILE /Users/prathamgauswami/Desktop/SIDE PROJECTS/CPP/MaufacturingUnitSystem/build/ManufacturingUnitSystems)
+set(__QT_DEPLOY_TARGET_ManufacturingUnitSystems_TYPE EXECUTABLE)

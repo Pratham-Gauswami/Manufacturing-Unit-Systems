@@ -1,0 +1,3 @@
+We can use this project and add it to our website. So, the users can check how
+our IOT devices are helpful to them without bothering to check with the
+hardwares itself.

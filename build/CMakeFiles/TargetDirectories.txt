@@ -1,0 +1,5 @@
+/Users/prathamgauswami/Desktop/SIDE PROJECTS/CPP/MaufacturingUnitSystem/build/CMakeFiles/ManufacturingUnitSystems.dir
+/Users/prathamgauswami/Desktop/SIDE PROJECTS/CPP/MaufacturingUnitSystem/build/CMakeFiles/edit_cache.dir
+/Users/prathamgauswami/Desktop/SIDE PROJECTS/CPP/MaufacturingUnitSystem/build/CMakeFiles/rebuild_cache.dir
+/Users/prathamgauswami/Desktop/SIDE PROJECTS/CPP/MaufacturingUnitSystem/build/CMakeFiles/ManufacturingUnitSystems_autogen_timestamp_deps.dir
+/Users/prathamgauswami/Desktop/SIDE PROJECTS/CPP/MaufacturingUnitSystem/build/CMakeFiles/ManufacturingUnitSystems_autogen.dir
